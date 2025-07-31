@@ -1,7 +1,9 @@
 # ATLI-Dataset
 # Autonomous Transmission Line Inspection based on Deep Learning Models for Smart Cities REU at UNLV 
 ![My Image](https://github.com/oscartsai2620/ATLI-Dataset/blob/main/table.png)
+
 Aerial Transmittion Line Inspection (ATLI) Dataset:
+
 [1] A. Raimundo, “Insulator data set - Chinese power line insulator dataset (CPLID),” IEEE DataPort, 2020. Dataset: https://github.com/InsulatorData/InsulatorDataSet
 [2]Vieira e Silva, A. L. B., “InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images”, <i>International Journal of Remote Sensing</i>, vol. 44, no. 23, T+F, pp. 7294–7320, 2023. Dataset: https://drive.google.com/drive/folders/1psHiRyl7501YolnCcB8k55rTuAUcR9Ak
 [3]D. Li, Y. Lu, Q. Gao, X. Li, X. Yu and Y. Song, "LiteYOLO-ID: A Lightweight Object Detection Network for Insulator Defect Detection," in IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-12, 2024. Dataset: https://drive.google.com/file/d/1QOFg5iCop9Jb9uAjiNelYvELOmUWGMs-/view?usp=drive_link
